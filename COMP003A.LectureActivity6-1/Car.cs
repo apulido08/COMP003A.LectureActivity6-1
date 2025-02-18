@@ -19,9 +19,9 @@ namespace COMP003A.LectureActivity6_1
         /// <param name="year"></param>
         ///  <param name="doors"></param>
         
-        public Car(string barand, int year, int doors)
+        public Car(string brand, int year, int doors)
         {
-            Brand = barand;
+            Brand = brand;
             Year = year;
             Doors = doors;
         }
